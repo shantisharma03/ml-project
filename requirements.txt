@@ -1,0 +1,21 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+tensorflow
+keras
+torch
+torchvision
+requests
+beautifulsoup4
+flask
+pytest
+jupyterlab
+ipython
+notebook
+pillow
+scikit-image
+statsmodels
+-e .
