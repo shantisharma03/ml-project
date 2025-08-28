@@ -18,4 +18,8 @@ notebook
 pillow
 scikit-image
 statsmodels
+matplotlib
+catboost
+xgboost
+
 -e .
