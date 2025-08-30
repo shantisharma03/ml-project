@@ -21,5 +21,5 @@ statsmodels
 matplotlib
 catboost
 xgboost
-
+dill
 -e .
